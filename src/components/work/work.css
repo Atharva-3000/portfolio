@@ -107,3 +107,8 @@
         column-gap: 0.25rem;
     }
   }
+
+  .work__card:hover{
+    transition: 0.3s;
+    background-color: rgb(219, 219, 219);
+  }

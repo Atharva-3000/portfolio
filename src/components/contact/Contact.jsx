@@ -47,7 +47,7 @@ const Contact = () => {
               <i className="bx bxl-whatsapp contact__card-icon"></i>
 
               <h3 className="contact__card-title">WhatsApp</h3>
-              <span className="contact__card-data">+91 8103548618</span>
+              <span className="contact__card-data">+91 81035XXXXX</span>
 
               <a
                 href="https://api.whatsapp.com/send?phone=918103548618&text=Hello, more information!"
@@ -107,6 +107,7 @@ const Contact = () => {
             <button className="button button--flex">
               Send Message
               <svg
+              
                 class="button__icon"
                 xmlns="http://www.w3.org/2000/svg"
                 width="24"
