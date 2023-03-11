@@ -3,6 +3,7 @@ import Work2 from "../../assets/work2.png";
 import Work3 from "../../assets/work3.png";
 import Work4 from "../../assets/work4.png";
 import Work5 from "../../assets/work5.png";
+import Work6 from "../../assets/Work6.png";
 export const projectsData = [
   {
     id: 1,
@@ -20,20 +21,27 @@ export const projectsData = [
   },
   {
     id: 3,
+    image: Work6,
+    title: "Weather.io",
+    category: "web",
+    deploymentLink: "https://weather-i0.netlify.app/",
+  },
+  {
+    id: 4,
     image: Work3,
     title: "Dino Runner",
     category: "web",
     deploymentLink: "https://dino-game-atharva-3000.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     image: Work4,
     title: "Zomato HTML CSS",
     category: "design",
     deploymentLink: "https://zomatohtmlcss.netlify.app/",
   },
   {
-    id: 5,
+    id: 6,
     image: Work5,
     title: "Login Bootstrap UI",
     category: "design",
