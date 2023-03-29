@@ -82,7 +82,7 @@ const Qualifications = () => {
 
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">Degree</h3>
+                <h3 className="qualification__title">B.Tech</h3>
                 <span className="qualification__subtitle">
                   Parul University
                 </span>
@@ -160,6 +160,24 @@ const Qualifications = () => {
                 <div className="qualification__calendar">
                   <i className="uil uil-calendar-alt"></i> 01/2023
                 </div>
+              </div>
+            </div>
+            <div className="qualification__data">
+              <div>
+                <h3 className="qualification__title">
+                  Hackvengers 2023
+                </h3>
+                <span className="qualification__subtitle">
+                  2nd Runner ups in this national level hackathon
+                </span>
+                <div className="qualification__calendar">
+                  <i className="uil uil-calendar-alt"></i> 03/2023
+                </div>
+              </div>
+
+              <div>
+                <span className="qualification__rounder"></span>
+                <span className="qualification__line"></span>
               </div>
             </div>
           </div>
