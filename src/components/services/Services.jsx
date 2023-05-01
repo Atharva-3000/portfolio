@@ -62,7 +62,7 @@ const Services = () => {
 
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
-                  <p className="services__modal-info">I do content writing.</p>
+                  <p className="services__modal-info">I make figma wireframes</p>
                 </li>
               </ul>
             </div>
@@ -117,7 +117,12 @@ const Services = () => {
                     I have done creative blogs.
                   </p>
                 </li>
-
+                <li className="services__modal-service">
+                  <i className="uil uil-check-circle services__modal-icon"></i>
+                  <p className="services__modal-info">
+                    Story Writer on Vocal.media
+                  </p>
+                </li>
                 <li className="services__modal-service">
                   <i className="uil uil-check-circle services__modal-icon"></i>
                   <p className="services__modal-info">I do content writing.</p>
